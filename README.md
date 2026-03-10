@@ -1,6 +1,5 @@
 
-🚀 FórumHub API
- <img src="/Badges-Spring.png" alt="Simbolo spring 2d" width="150">
+# 🚀 FórumHub API <img src="https://raw.githubusercontent.com/LuandaLl/Alura-Forum/main/Badge-Spring.png" alt="Simbolo spring 2d" width="45" align="center">
 
 
 O FórumHub é uma API REST desenvolvida em Java com Spring Boot, criada como um desafio (Challenge) para replicar o funcionamento de um fórum de discussões. A aplicação foca no gerenciamento de tópicos (CRUD) e possui um sistema robusto de autenticação e segurança utilizando tokens JWT.
